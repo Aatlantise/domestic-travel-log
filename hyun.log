@@ -1,0 +1,25 @@
+{
+	"items": [
+		{"datetime": "Jun 1 2021  05:00AM",
+		"type": "rail",
+		"number": "KTX 001",
+		"origin": "Seoul Station",
+		"destination": "Busan Station",
+		"duration": "02:44",
+		"cost": "59,800"
+		},
+
+		{"datetime": "Jun 2 2021  05:00AM",
+		"type": "rail",
+		"number": "KTX 002",
+		"origin": "Busan Station",
+		"destination": "Seoul Station",
+		"duration": "02:44",
+		"cost": "59,800"
+		}
+
+	]
+
+
+
+}
